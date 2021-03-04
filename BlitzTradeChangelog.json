@@ -22,7 +22,7 @@
             "subItems": [
               {
                 "type": "plain",
-                "content": "Проект мигрировал на .Net Core 5.0"
+                "content": "Проект мигрировал на .Net 5.0"
               }
             ]
           }
