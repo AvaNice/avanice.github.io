@@ -481,6 +481,14 @@
             "subItems": [
               {
                 "type": "plain",
+                "content": "Сайт платформы запущен на домене https://mobiletrade.alef-vinal.ua/"
+              },
+              {
+                "type": "comment",
+                "content": "Hello World! Мы в мировой паутине."
+              },
+			  {
+                "type": "plain",
                 "content": "На сайт добавлены заголовки разделов, основное и дополнительное меню"
               },
 			  {
