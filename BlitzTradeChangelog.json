@@ -367,6 +367,69 @@
             ]
           }
         ]
+      },
+	  {
+        "header": "2020-11-27 - [0.0.4.2-Beta, Build 12]",
+        "paragraphs": [
+          {
+            "iconKey": "added",
+            "header": "Добавлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Аналитика Appcenter Analytics"
+              }
+            ]
+          },
+		  {
+            "iconKey": "fixed",
+            "header": "Исправлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Фикс зависания каталога PreOrderGoodsList при первом запуске приложения и после обновления"
+              }
+            ]
+          }
+        ]
+      },
+	  {
+        "header": "2020-11-26 - [0.0.4.1-Beta, Build 11]",
+        "paragraphs": [
+		  {
+            "iconKey": "fixed",
+            "header": "Исправлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Фикс документа Заказ"
+              },
+			  {
+                "type": "plain",
+                "content": "Фикс AppShell RouteInputLayout UI bug"
+              }
+            ]
+          }
+        ]
+      },
+	  {
+        "header": "2020-11-25 - [0.0.4.1-Beta, Build 10]",
+        "paragraphs": [
+          {
+            "iconKey": "added",
+            "header": "Добавлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "В справочник Фирм refFirms добавлено поле ShortName"
+              },
+			  {
+                "type": "plain",
+                "content": "В строки документа Заказ drPreOrder добавлено поле Factor"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -466,7 +529,7 @@
             "subItems": [
               {
                 "type": "plain",
-                "content": "Шаблоны фильтров приоритетнее Префильтров"
+                "content": "Шаблоны фильтров приоритетнее префильтров"
               }
             ]
           }
