@@ -240,6 +240,99 @@
             ]
           }
         ]
+      },
+	  {
+        "header": "2020-12-18 - [0.0.6-Beta, Build 15]",
+        "paragraphs": [
+          {
+            "iconKey": "fixed",
+            "header": "Исправлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Фикс бага добавления страницы дебиторки в документе ПКО"
+              }
+            ]
+          }
+        ]
+      },
+	  {
+        "header": "2020-12-17 - [0.0.6-Beta, Build 14]",
+        "paragraphs": [
+          {
+            "iconKey": "added",
+            "header": "Добавлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Документ ПКО"
+              }
+            ]
+          }
+        ]
+      },
+	  {
+        "header": "2020-12-08 - [0.0.5-Beta, Build 13]",
+        "paragraphs": [
+          {
+            "iconKey": "added",
+            "header": "Добавлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Документ Мерчандайзинг"
+              },
+			  {
+                "type": "plain",
+                "content": "Расширенная аналитика Appcenter Analytics"
+              }
+            ]
+          },
+		  {
+            "iconKey": "changed",
+            "header": "Улучшено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Справочник Покупателей RefBuyer поле CreditLimit переименовано в TotalCreditLimit
+              },
+			  {
+                "type": "plain",
+                "content": "Справочник Покупателей RefBuyer поле CreditDeadline переименовано в MaxCreditDeadline"
+              },
+			  {
+                "type": "plain",
+                "content": "Улучшения интерфейса (порядковый номер точки в которой начата работа рядом с индикатором режима работы на маршруте)"
+              }
+            ]
+          },
+		  {
+            "iconKey": "fixed",
+            "header": "Исправлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Фикс невозможности завершения работы на маршруте после дропа базы при начатом визите (после пересоздания базы, загрузка базы становится обязательной, завершается визит и маршрут)"
+              },
+			  {
+                "type": "plain",
+                "content": "Фикс сброса маршрута после перезахода в приложение"
+              },
+			  {
+                "type": "plain",
+                "content": "Фикс багов GpsManagera"
+              },
+			  {
+                "type": "plain",
+                "content": "Фикс неоднократной возможности нажать на ActionButton в SnackBar"
+              },
+			  {
+                "type": "plain",
+                "content": "Фикс работы с контекстом БД DbContext concurrency"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
