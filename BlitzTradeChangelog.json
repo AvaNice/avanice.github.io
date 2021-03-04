@@ -12,7 +12,7 @@
             "subItems": [
               {
                 "type": "plain",
-                "content": "На сервисе Google Play опубликовано наше приложение https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US"
+                "content": "На сервисе Google Play опубликовано наше приложение Blitz Trade (https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US)"
               },
 			  {
                 "type": "comment",
@@ -688,7 +688,7 @@
             "subItems": [
               {
                 "type": "plain",
-                "content": "Сайт платформы запущен на домене https://mobiletrade.alef-vinal.ua/"
+                "content": "Сайт платформы запущен на домене (https://mobiletrade.alef-vinal.ua/)"
               },
               {
                 "type": "comment",
@@ -870,7 +870,7 @@
               },
 			  {
                 "type": "comment",
-                "content": "API https://ru.wikipedia.org/wiki/API определяет функциональность, которую предоставляет наша платформа, при этом API позволяет абстрагироваться от того, как именно эта функциональность реализована. Если платформу рассматривать как чёрный ящик, то API — это множество «ручек», которые доступны пользователю данного ящика и которые он может вертеть и дёргать."
+                "content": "API (https://ru.wikipedia.org/wiki/API) определяет функциональность, которую предоставляет наша платформа, при этом API позволяет абстрагироваться от того, как именно эта функциональность реализована. Если платформу рассматривать как чёрный ящик, то API — это множество «ручек», которые доступны пользователю данного ящика и которые он может вертеть и дёргать."
               }
             ]
           }
