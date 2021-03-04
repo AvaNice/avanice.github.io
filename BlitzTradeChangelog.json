@@ -15,7 +15,7 @@
                 "content": "На сервисе Google Play опубликовано наше приложение https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US"
               },
 			  {
-                "type": "plain",
+                "type": "comment",
                 "content": "Мобильное приложение нашей компании прошло верификацию у специалистов компании Google и было одобрено для публикации на их платформе Google Play."
               }
             ]
