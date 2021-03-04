@@ -294,7 +294,7 @@
             "subItems": [
               {
                 "type": "plain",
-                "content": "Справочник Покупателей RefBuyer поле CreditLimit переименовано в TotalCreditLimit
+                "content": "Справочник Покупателей RefBuyer поле CreditLimit переименовано в TotalCreditLimit"
               },
 			  {
                 "type": "plain",
