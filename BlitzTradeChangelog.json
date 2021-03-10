@@ -225,6 +225,43 @@
         ]
       },
 	  {
+        "header": "2021-03-10 — [1.0.1, Build 27]",
+        "paragraphs": [
+          {
+            "iconKey": "added",
+            "header": "Добавлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Добавлены Итоги по документам Заказ на странице Журнал документов"
+              },
+              {
+                "type": "comment",
+                "content": "Количество товара, сумма."
+              },
+              {
+                "type": "plain",
+                "content": "Добавлено обновление при запуске приложения"
+              }
+            ]
+          },
+		  {
+            "iconKey": "changed",
+            "header": "Улучшено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Изменена последовательность загрузки приложения"
+              },
+			  {
+                "type": "comment",
+                "content": "Убран OnResume для SplashScreen."
+              }
+            ]
+          }
+        ]
+      },
+	  {
         "header": "2021-03-09 — [1.0.0, Build 26]",
         "paragraphs": [
           {
