@@ -246,6 +246,10 @@
             "header": "Добавлено",
             "subItems": [
               {
+                "type": "plain",
+                "content": "#[https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US][Blitz Trade]#"
+              },
+			  {
                 "type": "comment",
                 "content": "Если вы не получили очередное обновление на своем мобильном устройстве — попробуйте найти приложение в Google Play по запросу в поиске «Blitz Trade Alef Vinal» и обновиться самостоятельно."
               }
