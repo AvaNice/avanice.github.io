@@ -4,6 +4,55 @@
     "header": "Web",
     "posts": [
       {
+        "header": "2021-03-17",
+        "paragraphs": [
+          {
+            "iconKey": "changed",
+            "header": "Улучшено",
+            "subItems": [
+              {
+                "type": "plain",
+				"content": "Рефакторинг компонента Журнал"
+              },
+			  {
+                "type": "plain",
+                "content": "Улучшения интерфейса и оптимизация работы сайта"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "header": "2021-03-16",
+        "paragraphs": [
+          {
+            "iconKey": "added",
+            "header": "Добавлено",
+            "subItems": [
+              {
+                "type": "plain",
+				"content": "Спроектирован интерфейс редактирования Документов и форма Аутентификации"
+              }
+            ]
+          }
+        ]
+      },
+	  {
+        "header": "2021-03-15",
+        "paragraphs": [
+          {
+            "iconKey": "added",
+            "header": "Добавлено",
+            "subItems": [
+              {
+                "type": "plain",
+				"content": "На сайт добавлен журнал Визитов и оторажение деталей Визита"
+              }
+            ]
+          }
+        ]
+      },
+	  {
         "header": "2021-03-11",
         "paragraphs": [
           {
@@ -1061,6 +1110,46 @@
     "header": "Server",
     "posts": [
       {
+        "header": "2021-03-16",
+        "paragraphs": [
+          {
+            "iconKey": "added",
+            "header": "Добавлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Добавлена система расширенного Логирования запросов, результатов их обработки и анализа"
+              },
+            ]
+          },
+		  {
+            "iconKey": "fixed",
+            "header": "Исправлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Фикс непрерывной интеграции и развертывания (СI/CD) для проекта платформы"
+              }
+            ]
+          }
+        ]
+      },
+	  {
+        "header": "2021-03-15",
+        "paragraphs": [
+          {
+            "iconKey": "changed",
+            "header": "Улучшено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Внесены исправления в систему статусов Документов"
+              },
+            ]
+          }
+        ]
+      },
+	  {
         "header": "2021-03-11",
         "paragraphs": [
           {
