@@ -1214,6 +1214,21 @@
     "header": "Server",
     "posts": [
       {
+        "header": "2021-03-29",
+        "paragraphs": [
+          {
+            "iconKey": "added",
+            "header": "Добавлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Добавлен серверный функционал редактирования документов"
+              }
+            ]
+          }
+        ]
+      },
+	  {
         "header": "2021-03-26",
         "paragraphs": [
           {
