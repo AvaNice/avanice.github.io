@@ -423,11 +423,62 @@
             "subItems": [
 			  {
                 "type": "plain",
-                "content": "#[https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US][Blitz Trade 1.0.3 — 2021-03-30]#"
+                "content": "#[https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US][Blitz Trade 1.0.4 — 2021-04-05]#"
               },
 			  {
                 "type": "comment",
                 "content": "Если вы не получили очередное обновление на своем мобильном устройстве — попробуйте найти приложение в Google Play по запросу в поиске «Blitz Trade Alef Vinal» и обновиться самостоятельно."
+              }
+            ]
+          }
+        ]
+      },
+	  {
+        "header": "2021-04-05 — [1.0.4, Build 33]",
+        "paragraphs": [
+          {
+            "iconKey": "added",
+            "header": "Добавлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Добавлена информация об остатках на Складе в карточку Товара в Каталоге товаров"
+              },
+			  {
+                "type": "plain",
+                "content": "Добавлена группировка по Дате в статистику Продаж на экране Информации о торговой точке"
+              },
+			  {
+                "type": "plain",
+                "content": "Добавлен диалог подтверждения при уходе с экрана Документа без сохранения изменений"
+              },
+			  {
+                "type": "plain",
+                "content": "Добавлена возможность частичной выгрузки Документов, без фотографий, с последующей их довыгрузкой"
+              }
+            ]
+          },
+		  {
+            "iconKey": "changed",
+            "header": "Улучшено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Увеличен размер кнопки выбора сервера на экране аутентификации"
+              },
+			  {
+                "type": "plain",
+                "content": "Теперь данные регистра отчетов очищаются при синхронизации базы"
+              }
+            ]
+          },
+		  {
+            "iconKey": "fixed",
+            "header": "Исправлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Фикс бага некорректной очистки фотоархива и расчета занятого места в Настройках приложения"
               }
             ]
           }
