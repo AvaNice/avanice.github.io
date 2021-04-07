@@ -423,11 +423,26 @@
             "subItems": [
 			  {
                 "type": "plain",
-                "content": "#[https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US][Blitz Trade 1.0.4 — 2021-04-05]#"
+                "content": "#[https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US][Blitz Trade 1.0.5 — 2021-04-07]#"
               },
 			  {
                 "type": "comment",
                 "content": "Если вы не получили очередное обновление на своем мобильном устройстве — найдите приложение в Google Play по запросу в поиске «Blitz Trade Alef Vinal» и обновитесь самостоятельно."
+              }
+            ]
+          }
+        ]
+      },
+	  {
+        "header": "2021-04-07 — [1.0.5, Build 34]",
+        "paragraphs": [
+          {
+            "iconKey": "fixed",
+            "header": "Исправлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Фикс отображения диалога подтверждения при переходе на дочернюю страницу экрана Документа"
               }
             ]
           }
