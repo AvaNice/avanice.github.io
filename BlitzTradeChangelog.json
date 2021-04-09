@@ -506,6 +506,21 @@
         ]
       },
 	  {
+        "header": "2021-04-09 — [1.0.6, Build 36]",
+        "paragraphs": [
+          {
+            "iconKey": "changed",
+            "header": "Улучшено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Улучшение производительности приложения на экранах Документов"
+              }
+            ]
+          }
+        ]
+      },
+	  {
         "header": "2021-04-07 — [1.0.5, Build 34]",
         "paragraphs": [
           {
