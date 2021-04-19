@@ -532,11 +532,44 @@
             "subItems": [
 			  {
                 "type": "plain",
-                "content": "#[https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US][Blitz Trade 1.0.6 — 2021-04-09]#"
+                "content": "#[https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US][Blitz Trade 1.0.7 — 2021-04-14]#"
               },
 			  {
                 "type": "comment",
                 "content": "Если вы не получили очередное обновление на своем мобильном устройстве — найдите приложение в Google Play по запросу в поиске «Blitz Trade Alef Vinal» и обновитесь самостоятельно."
+              }
+            ]
+          }
+        ]
+      },
+	  {
+        "header": "2021-04-19 — [1.0.8, Build 40]",
+        "paragraphs": [
+          {
+            "iconKey": "added",
+            "header": "Добавлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Добавлена кнопка автозаполнения суммы прихода по выбранной дебиторской задолженности в документе ПКО"
+              },
+			  {
+                "type": "plain",
+                "content": "Добавлена возможность изменить сумму прихода в документе ПКО в режиме редактирования"
+              },
+			  {
+                "type": "plain",
+                "content": "Добавлен поиск и очистка выбранных значений в выпадающих списках Фильтра по Журналу документов"
+              }
+            ]
+          },
+		  {
+            "iconKey": "changed",
+            "header": "Улучшено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Теперь очищается фильтр по Торговой точке на странице Территории при выходе"
               }
             ]
           }
