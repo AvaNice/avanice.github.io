@@ -12,7 +12,7 @@
             "subItems": [
               {
                 "type": "plain",
-				"content": "На страницы Журналов сайта добавлены настройки количества строк выводимых данных и соответствующий функционал"
+				"content": "На страницы Журналов сайта добавлены настройки количества строк выводимых данных и соответствующий функционал пагинации"
               },
 			  {
                 "type": "comment",
@@ -532,7 +532,7 @@
             "subItems": [
 			  {
                 "type": "plain",
-                "content": "#[https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US][Blitz Trade 1.0.7 — 2021-04-14]#"
+                "content": "#[https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US][Blitz Trade 1.0.8 — 2021-04-19]#"
               },
 			  {
                 "type": "comment",
@@ -569,7 +569,7 @@
             "subItems": [
               {
                 "type": "plain",
-                "content": "Теперь очищается фильтр по Торговой точке на странице Территории при выходе"
+                "content": "Теперь очищается фильтр по Торговой точке на странице Территория при выходе"
               }
             ]
           }
