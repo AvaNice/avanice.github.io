@@ -532,7 +532,7 @@
             "subItems": [
 			  {
                 "type": "plain",
-                "content": "#[https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US][Blitz Trade 1.0.8 — 2021-04-19]#"
+                "content": "#[https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US][Blitz Trade 1.0.8 — 2021-04-18]#"
               },
 			  {
                 "type": "comment",
@@ -543,7 +543,7 @@
         ]
       },
 	  {
-        "header": "2021-04-19 — [1.0.8, Build 40]",
+        "header": "2021-04-18 — [1.0.8, Build 40]",
         "paragraphs": [
           {
             "iconKey": "added",
