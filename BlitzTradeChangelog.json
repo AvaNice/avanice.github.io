@@ -611,11 +611,44 @@
             "subItems": [
 			  {
                 "type": "plain",
-                "content": "#[https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US][Blitz Trade 1.1.0 — 2021-04-21]#"
+                "content": "#[https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US][Blitz Trade 1.1.1 — 2021-04-26]#"
               },
 			  {
                 "type": "comment",
                 "content": "Если вы не получили очередное обновление на своем мобильном устройстве — найдите приложение в Google Play по запросу в поиске «Blitz Trade Alef Vinal» и обновитесь самостоятельно."
+              },
+			  {
+                "type": "plain",
+                "content": "#[https://drive.google.com/file/d/1kAEmPEvwuJIGIM0-2VSi5z4LZbW50dxB/view?usp=sharing][Инструкция Blitz Trade Mobile 1.х.х 2021-04.pdf]#"
+              }
+            ]
+          }
+        ]
+      },
+	  {
+        "header": "2021-04-26 — [1.1.1, Build 44]",
+        "paragraphs": [
+		  {
+            "iconKey": "added",
+            "header": "Добавлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Добавлена проверка входящих данных при записи начала и окончания Визита"
+              },
+			  {
+                "type": "plain",
+                "content": "Добавлено перемещение фокуса на Карте маршрута на пин выбранной в списке Торговой точки"
+              }
+            ]
+          },
+		  {
+            "iconKey": "fixed",
+            "header": "Исправлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Фикс краша снакбара"
               }
             ]
           }
