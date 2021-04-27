@@ -620,6 +620,10 @@
 			  {
                 "type": "plain",
                 "content": "#[https://drive.google.com/file/d/1kAEmPEvwuJIGIM0-2VSi5z4LZbW50dxB/view?usp=sharing][Инструкция Blitz Trade Mobile 1.х.х 2021-04.pdf]#"
+              },
+			  {
+                "type": "comment",
+                "content": "Настоятельно рекомендуем ознакомиться с инструкцией пользователя, прежде чем приступать к работе в мобильном приложении."
               }
             ]
           }
