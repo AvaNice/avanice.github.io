@@ -638,11 +638,11 @@
             "subItems": [
               {
                 "type": "plain",
-                "content": "Опубликована #[https://drive.google.com/file/d/1kAEmPEvwuJIGIM0-2VSi5z4LZbW50dxB/view?usp=sharing][инструкция]# пользователя мобильного приложения Blitz Trade Mobile"
+                "content": "Опубликована #[https://drive.google.com/file/d/1kAEmPEvwuJIGIM0-2VSi5z4LZbW50dxB/view?usp=sharing][Инструкция Blitz Trade Mobile 1.х.х 2021-04]# для пользователей мобильного приложения"
               },
 			  {
                 "type": "comment",
-                "content": "Инструкция Blitz Trade Mobile 1.х.х 2021-04.pdf"
+                "content": "Файл в формате .pdf поддерживает перекрестные ссылки для быстрого перехода в нужные разделы."
               }
             ]
           }
