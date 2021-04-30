@@ -630,6 +630,25 @@
         ]
       },
 	  {
+        "header": "2021-04-27",
+        "paragraphs": [
+		  {
+            "iconKey": "added",
+            "header": "Добавлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Опубликована #[https://drive.google.com/file/d/1kAEmPEvwuJIGIM0-2VSi5z4LZbW50dxB/view?usp=sharing][инструкция]# пользователя мобильного приложения Blitz Trade Mobile"
+              },
+			  {
+                "type": "comment",
+                "content": "Инструкция Blitz Trade Mobile 1.х.х 2021-04.pdf"
+              }
+            ]
+          }
+        ]
+      },
+	  {
         "header": "2021-04-26 — [1.1.1, Build 44]",
         "paragraphs": [
 		  {
