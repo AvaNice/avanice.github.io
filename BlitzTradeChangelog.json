@@ -634,7 +634,7 @@
             "subItems": [
 			  {
                 "type": "plain",
-                "content": "#[https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US][Blitz Trade 1.2.0 — 2021-05-11]#"
+                "content": "#[https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US][Blitz Trade 1.2.1 — 2021-05-12]#"
               },
 			  {
                 "type": "comment",
@@ -647,6 +647,31 @@
 			  {
                 "type": "comment",
                 "content": "Настоятельно рекомендуем ознакомиться с инструкцией пользователя, прежде чем приступать к работе в мобильном приложении."
+              }
+            ]
+          }
+        ]
+      },
+	  {
+        "header": "2021-05-12 — [1.2.1, Build 52]",
+        "paragraphs": [
+		  {
+            "iconKey": "added",
+            "header": "Добавлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Добавлены проверки разрешений для встроенной в приложение фотокамеры"
+              }
+            ]
+          },
+		  {
+            "iconKey": "changed",
+            "header": "Улучшено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Теперь встроенная в приложение фотокамера включена по умолчанию"
               }
             ]
           }
