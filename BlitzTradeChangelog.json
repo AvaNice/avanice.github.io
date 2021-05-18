@@ -634,7 +634,7 @@
             "subItems": [
 			  {
                 "type": "plain",
-                "content": "#[https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US][Blitz Trade 1.2.1 — 2021-05-12]#"
+                "content": "#[https://play.google.com/store/apps/details?id=com.alefvinal.mobiletrade&hl=uk&gl=US][Blitz Trade 1.2.3 — 2021-05-17]#"
               },
 			  {
                 "type": "comment",
@@ -647,6 +647,46 @@
 			  {
                 "type": "comment",
                 "content": "Настоятельно рекомендуем ознакомиться с инструкцией пользователя, прежде чем приступать к работе в мобильном приложении."
+              }
+            ]
+          }
+        ]
+      },
+	  {
+        "header": "2021-05-17 — [1.2.3, Build 54]",
+        "paragraphs": [
+		  {
+            "iconKey": "added",
+            "header": "Добавлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Добавлены кастомные диалоговые окна, исправляющие краши приложения"
+              }
+            ]
+          }
+        ]
+      },
+	  {
+        "header": "2021-05-14 — [1.2.2, Build 53]",
+        "paragraphs": [
+		  {
+            "iconKey": "added",
+            "header": "Добавлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Добавлено сохранение заданных пользователем настроек режима вспышки во встроенную в приложение фотокамеру"
+              }
+            ]
+          },
+		  {
+            "iconKey": "fixed",
+            "header": "Исправлено",
+            "subItems": [
+              {
+                "type": "plain",
+                "content": "Фикс крашей встроенной в приложение фотокамеры"
               }
             ]
           }
